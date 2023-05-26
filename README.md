@@ -1,7 +1,7 @@
-Opis projekta
+# Opis projekta
 
-Uvod
+## Uvod
 -- opis
 
-Simulacija projekta
+### Simulacija projekta
 -- opis
