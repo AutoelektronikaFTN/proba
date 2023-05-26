@@ -8,6 +8,6 @@ int main()
 		c = a - b;
 	else
 		c = b - a;
-	printf("Result: %d\n", c);
+	printf("Results: %d\n", c);
 	return 0;
 }
